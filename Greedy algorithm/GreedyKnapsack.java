@@ -70,7 +70,7 @@ public class FractionalKnapSack {
 			this.ind = ind; 
 			cost = new Double(val/wt ); 
 		} 
-
+//
 	} 
 
 } 
