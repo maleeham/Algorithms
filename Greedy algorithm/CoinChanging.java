@@ -1,5 +1,4 @@
-// Recursive java program for 
-// coin change problem. 
+// Recursive java program for coin change problem. 
 import java.io.*; 
   
 class GFG { 
