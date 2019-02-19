@@ -4,7 +4,7 @@ import java.util.Comparator;
 
 //Greedy approach 
 public class FractionalKnapSack { 
-//Time complexity O(n log n) 
+
 	public static void main(String[] args){ 
 		int[] wt = {10, 40, 20, 30}; 
 		int[] val = {60, 40, 100, 120}; 
