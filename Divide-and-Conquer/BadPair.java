@@ -70,10 +70,5 @@ class Algo {
         return inv_count; 
     } 
   
-    // Driver method to test the above function 
-    public static void main(String[] args) 
-    { 
-        int arr[] = new int[] { 23,7,8 }; 
-        System.out.println("Number of inversions are " + mergeSort(arr, 3)); 
-    } 
+    
 }
