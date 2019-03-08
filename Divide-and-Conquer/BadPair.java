@@ -1,5 +1,5 @@
 Problem 4. Let A[::] be an array of n distinct numbers. We call a pair (A[i];A[j]) bad, if i < j and A[i] >
-A[j]+10. Design a divide-and-conquer algorithm that computes the number of bad pairs in A in O(n lg n) time..
+A[j]+10. Design a divide-and-conquer algorithm that computes the number of bad pairs in A in O(n lg n) time.
   
 class Algo { 
   
