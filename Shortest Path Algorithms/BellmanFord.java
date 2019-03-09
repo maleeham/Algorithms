@@ -1,5 +1,4 @@
-// A Java program for Bellman-Ford's single source shortest path 
-// algorithm. 
+// A Java program for Bellman-Ford's single source shortest path algorithm 
 import java.util.*; 
 import java.lang.*; 
 import java.io.*; 
