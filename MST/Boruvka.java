@@ -114,7 +114,7 @@ public class BoruvkaMST {
                 int x = f.either(), y = f.other(x);
                 if (!uf.connected(x, y)) {
                     if (f.weight() < e.weight()) {
-                        System.err.println("Edge " + f + " violates cut optimality conditions");
+                        System.err.println("Edge " + f + " violates cut optimality conditions.");
                         return false;
                     }
                 }
