@@ -1,5 +1,5 @@
 
-// BFS(int s) traverses vertices reachable from s. 
+// BFS traverses vertices reachable from s. 
 import java.io.*; 
 import java.util.*; 
 
