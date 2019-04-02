@@ -28,8 +28,7 @@ class Graph
 	// prints BFS traversal from a given source s 
 	void BFS(int s) 
 	{ 
-		// Mark all the vertices as not visited(By default 
-		// set as false) 
+		// Mark all the vertices as not visited(By default set as false) 
 		boolean visited[] = new boolean[V]; 
 
 		// Create a queue for BFS 
